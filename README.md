@@ -10,7 +10,7 @@ Welcome to my data science portfolio, showcasing a collection of both ongoing an
    - [Profile](#Profile)
    - [Education](#Education)
    - [Experience](#Experience)
-2. [Introducion](#Introducion)
+2. [Introduction](#Introduction)
 3. [Background](#Background)
 4. [Portfolio Contents](#Portfolio-Contents)
    - [Project 1: English Premier League Match Predictions & Player Statistics ](#Project-1-English-Premier-League-Match-Predictions-&-Player-Statistics)
