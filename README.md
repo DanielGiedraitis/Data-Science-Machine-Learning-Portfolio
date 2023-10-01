@@ -1,5 +1,7 @@
 # Data Science Machine Learning Portfolio
 
+---
+
 Welcome to my data science portfolio, showcasing a collection of both ongoing and completed projects. This portfolio includes links to current projects in my portfolio as well as examples of my hands on experience in the different fields of Data Science and Machine Learning.
 
 ### Table of Contents
@@ -35,7 +37,7 @@ In a world increasingly driven by data, the ability to harness the power of data
 
 
 ## Background
-The utility and significance of this portfolio lie in its ability to showcase the impact and relevance of data science and machine learning in modern society. As data continues to spread through every aspect of our lives.
+The utility and significance of this portfolio lie in its capacity to showcase my proficiency in data science and machine learning to future employers and collaborators. Data science has become the cornerstone of innovation across industries, from healthcare and finance to marketing and e-commerce. Machine learning, a subset of artificial intelligence, has revolutionized predictive modeling, enabling accurate forecasting, pattern recognition, and automation. With this portfolio, I aim to demonstrate the depth of my knowledge and the breadth of my practical experience.
 - Discuss the potential impact of your work, such as improving decisionmaking, enhancing user experiences, or advancing scientific knowledge.
 
 
