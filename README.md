@@ -4,22 +4,16 @@ Welcome to my data science portfolio, showcasing a collection of both ongoing an
 
 ### Table of Contents
 
-1. [Introducion](#Introducion)
-2. [Background](#Background)
-3. [About me](#About-Me)
+1. [About me](#About-Me)
    - [Profile](#Profile)
    - [Education](#Education)
    - [Experience](#Experience)
-5. [Portfolio Contents](#Portfolio-Contents)
+2. [Introducion](#Introducion)
+3. [Background](#Background)
+4. [Portfolio Contents](#Portfolio-Contents)
    - [Project 1: English Premier League Match Predictions & Player Statistics ](#Project-1-English-Premier-League-Match-Predictions-&-Player-Statistics)
-6. [Technologies Used In Portfolio](#Technologies-Used-In-Portfolio)
-7. [Future Potential Projects](#Future-Potential-Projects)
-
-
-## Introduction
-
-
-## Background
+5. [Technologies Used In Portfolio](#Technologies-Used-In-Portfolio)
+6. [Future Potential Projects](#Future-Potential-Projects)
 
 
 ## About me
@@ -34,6 +28,12 @@ Welcome to my data science portfolio, showcasing a collection of both ongoing an
       
    ### Experience
    - Internship at The Department of Agriculture, Food & the Marine from March 2023 to August 2023
+
+     
+## Introduction
+
+
+## Background
 
 
 ## Portfolio Contents
