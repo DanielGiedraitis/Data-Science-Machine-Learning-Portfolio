@@ -8,7 +8,8 @@ Welcome to my data science portfolio, showcasing a collection of both ongoing an
 2. [Background](#Background)
 3. [About me](#About-Me)
 4. [Portfolio Contents](#Portfolio-Contents)
-   - [Project 1: English Premier League Match Predictions & Player Statistics ](#Project 1-English-Premier-League-Match-Predictions-&-Player-Statistics)
+   - [Project 1: English Premier League Match Predictions & Player Statistics ](#Project-1-English-Premier-League-Match-Predictions-&-Player-Statistics)
+
 
 ## Introduction
 
