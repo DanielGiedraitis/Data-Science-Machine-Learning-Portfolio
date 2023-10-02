@@ -27,7 +27,7 @@ Welcome to my data science portfolio, showcasing a collection of both ongoing an
    - **LinkedIn:** https://www.linkedin.com/in/daniel-giedraitis
 
    ### Education 
-   - Bachelor of Science in Software Development in South East Technological University
+   - Bachelor of Science in Software Development, [South East Technological University](https://www.setu.ie/)
       
    ### Experience
    - Internship at The Department of Agriculture, Food & the Marine from March 2023 to August 2023
