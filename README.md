@@ -57,7 +57,6 @@ The utility and significance of this portfolio lie in its capacity to showcase m
 
 
 ## Technologies Used In Portfolio
-- **Data Sets**:
 - **Programming Languages**:
 - **Frameworks**:
 - **Data Visualization Tools**:
