@@ -23,7 +23,7 @@ Welcome to my data science portfolio, showcasing a collection of both ongoing an
 8. [References](#References)
 
 
-## About me Project 1: 
+## About me  
    ### Profile
    - **Name:** Daniel Giedraitis
    - **Email:** daniel.giedraitis@gmail.com
