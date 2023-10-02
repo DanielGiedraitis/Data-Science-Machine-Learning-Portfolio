@@ -10,6 +10,7 @@ Welcome to my data science and machine learning portfolio, showcasing a collecti
    - [Profile](#Profile)
    - [Education](#Education)
    - [Experience](#Experience)
+   - [Technologies](#Technologies)
 2. [Introduction](#Introduction)
 3. [Background](#Background)
 4. [Portfolio Contents](#Portfolio-Contents)
@@ -35,6 +36,9 @@ Welcome to my data science and machine learning portfolio, showcasing a collecti
       
    ### Experience
    - Internship at The Department of Agriculture, Food & the Marine from March 2023 to August 2023
+
+   ### Technologies
+   -Java, C++, Angular, Python, Java Swing, HTML, CSS, PHP, JavaScript, Arduino, EASY68K, and SQL.
 
      
 ## Introduction
