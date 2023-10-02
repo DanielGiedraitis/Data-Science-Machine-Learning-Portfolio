@@ -75,7 +75,6 @@ The utility and significance of this portfolio lie in its capacity to showcase m
 - **Data Visualization Tools**: Tableau, Looker, Zoho Analytics, Sisense, Qlik Sense etc...
 - **Databases**: Redis, PostgreSQL, MySQL, MongoDB etc...
 
-<br>
 
 ## Future Potential Projects
 
