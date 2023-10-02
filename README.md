@@ -18,8 +18,8 @@ Welcome to my data science portfolio, showcasing a collection of both ongoing an
    - [Project 3: ](#Project-3)
 5. [Technologies Used In Portfolio](#Technologies-Used-In-Portfolio)
 6. [Future Potential Projects](#Future-Potential-Projects)
-   -[Project 1: Road Lane Line Detection](#Project-1-Road-Lane-Line-Detection)
-   -[Project 2: Visualizing Climate Change](#Project-2-Visualizing-Climate-Change)
+   - [Project 1: Road Lane Line Detection](#Project-1-Road-Lane-Line-Detection)
+   - [Project 2: Visualizing Climate Change](#Project-2-Visualizing-Climate-Change)
 8. [References](#References)
 
 
