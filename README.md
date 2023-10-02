@@ -13,15 +13,17 @@ Welcome to my data science portfolio, showcasing a collection of both ongoing an
 2. [Introduction](#Introduction)
 3. [Background](#Background)
 4. [Portfolio Contents](#Portfolio-Contents)
-   - [Project 1: English Premier League Match Predictions & Player Statistics ](#Project-1-English-Premier-League-Match-Predictions-&-Player-Statistics)
+   - [Project 1: English Premier League Match Predictions & Player Statistics](#Project-1-English-Premier-League-Match-Predictions-&-Player-Statistics)
    - [Project 2: ](#Project-2)
    - [Project 3: ](#Project-3)
 5. [Technologies Used In Portfolio](#Technologies-Used-In-Portfolio)
 6. [Future Potential Projects](#Future-Potential-Projects)
-7. [References](#References)
+   -[Project 1: Road Lane Line Detection](#Project-1-Road-Lane-Line-Detection)
+   -[Project 2: Visualizing Climate Change](#Project-2-Visualizing-Climate-Change)
+8. [References](#References)
 
 
-## About me
+## About me Project 1: 
    ### Profile
    - **Name:** Daniel Giedraitis
    - **Email:** daniel.giedraitis@gmail.com
@@ -66,12 +68,20 @@ The utility and significance of this portfolio lie in its capacity to showcase m
 
 
 ## Technologies Used In Portfolio
-- **Programming Languages**:
-- **Frameworks**:
-- **Data Visualization Tools**:
+- **Programming Languages**: Python, R, SQL, Java, C++ etc...
+- **Platforms**: Jupyter Notebook, Anaconda, Posit, Alteryx etc...
+- **Frameworks**: TensorFlow, Scikit-learn, Keras, Pandas etc...
+- **Data Visualization Tools**: Tableau, Looker, Zoho Analytics, Sisense, Qlik Sense etc...
+- **Databases**: Redis, PostgreSQL, MySQL, MongoDB etc...
 
 
 ## Future Potential Projects
+
+
+### Project 1: Road Lane Line Detection 
+
+
+### Project 2: Visualizing Climate Change
 
 
 ## References
