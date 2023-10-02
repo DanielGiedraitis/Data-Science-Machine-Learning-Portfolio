@@ -14,6 +14,8 @@ Welcome to my data science portfolio, showcasing a collection of both ongoing an
 3. [Background](#Background)
 4. [Portfolio Contents](#Portfolio-Contents)
    - [Project 1: English Premier League Match Predictions & Player Statistics ](#Project-1-English-Premier-League-Match-Predictions-&-Player-Statistics)
+   - [Project 2: ](#Project-2)
+   - [Project 3: ](#Project-3)
 5. [Technologies Used In Portfolio](#Technologies-Used-In-Portfolio)
 6. [Future Potential Projects](#Future-Potential-Projects)
 7. [References](#References)
@@ -55,6 +57,12 @@ The utility and significance of this portfolio lie in its capacity to showcase m
 - **Visualizations**: Include data visualizations. Visual representations will make the portfolio more engaging.
 - **Model Performance Metrics**: Present the metrics used to evaluate your models performance and discuss the results.
 - **Opportunities and Challenges**: Reflect on the opportunities and challenges you encountered during the project. Discuss how you overcame obstacles and what you learned from your experiences.
+
+
+### Project 2:
+
+
+### Project 3:
 
 
 ## Technologies Used In Portfolio
