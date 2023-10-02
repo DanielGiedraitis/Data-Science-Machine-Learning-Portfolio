@@ -16,6 +16,7 @@ Welcome to my data science portfolio, showcasing a collection of both ongoing an
    - [Project 1: English Premier League Match Predictions & Player Statistics ](#Project-1-English-Premier-League-Match-Predictions-&-Player-Statistics)
 5. [Technologies Used In Portfolio](#Technologies-Used-In-Portfolio)
 6. [Future Potential Projects](#Future-Potential-Projects)
+7. [References](#References)
 
 
 ## About me
@@ -63,6 +64,9 @@ The utility and significance of this portfolio lie in its capacity to showcase m
 
 
 ## Future Potential Projects
+
+
+## References
 
 
 
