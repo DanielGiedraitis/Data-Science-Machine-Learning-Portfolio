@@ -36,12 +36,10 @@ Welcome to my data science portfolio, showcasing a collection of both ongoing an
    ### Experience
    - Internship at The Department of Agriculture, Food & the Marine from March 2023 to August 2023
 
-<br>
      
 ## Introduction
 In a world increasingly driven by data, the ability to harness the power of data to solve complex problems and make informed decisions has become very important. This portfolio represents my journey through the fascinating realm of data science and machine learning. Through a series of carefully crafted projects, I aim to showcase not only my technical proficiency but also my passion for addressing real world challenges using data driven solutions.
 
-<br>
 
 ## Background
 The utility and significance of this portfolio lie in its capacity to showcase my proficiency in data science and machine learning to future employers and collaborators. Data science has become the cornerstone of innovation across industries, from healthcare and finance to marketing and e-commerce. Machine learning, a subset of artificial intelligence, has revolutionized predictive modeling, enabling accurate forecasting, pattern recognition, and automation.
