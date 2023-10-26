@@ -208,10 +208,10 @@ Regarding regulations, I followed standard data handling practices and complied 
 
 <br>
 
-### Project 2:
+# Project 2:
 
 
-### Project 3:
+# Project 3:
 
 <br>
 
