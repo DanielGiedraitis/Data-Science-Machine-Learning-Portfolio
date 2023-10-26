@@ -87,6 +87,13 @@ I used various data visualizations to enhance our understanding of the Californi
 As this project focuses on exploratory data analysis, I didn't use machine learning models, and therefore, there are no model performance metrics to report.
 
 ### Opportunities and Challenges:
+**Opportunities:**
+- Through this project, I gained valuable insights into the factors influencing housing prices in California cities.
+- The use of various data visualization techniques helped me communicate my findings effectively.
+
+**Challenges:**
+- Data preprocessing, including handling missing values, was necessary to ensure data quality.
+- Selecting the most appropriate visualization techniques for each feature was a challenge but resulted in informative visualizations.
 
 ### Project 2:
 
