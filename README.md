@@ -53,7 +53,7 @@ The utility and significance of my portfolio come from its ability to demonstrat
 
 # Portfolio Contents
 
-## [Project 1: Exploratory Data Analysis for California Housin](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/tree/main/Exploratory%20Data%20Analysis%20for%20California%20Housin)
+# [Project 1: Exploratory Data Analysis for California Housin](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/tree/main/Exploratory%20Data%20Analysis%20for%20California%20Housin)
 
 ### Description:
 In this project, I conducted an in-depth Exploratory Data Analysis (EDA) of the California Housing dataset, aiming to gain insights into housing trends in various cities in California. The primary objective of this analysis is to provide valuable information to potential homebuyers, real estate professionals, and policymakers. By uncovering key patterns and trends in the data, this analysis can assist in making informed decisions regarding housing investments and urban planning.
