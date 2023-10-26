@@ -49,6 +49,7 @@ In a world increasingly driven by data, the ability to harness the power of data
 # Background
 The utility and significance of my portfolio come from its ability to demonstrate my expertise in data science and machine learning to future employers and collaborators. Data science has become the cornerstone of innovation across industries, from healthcare and finance to marketing and e-commerce. Machine learning, a subset of artificial intelligence, has revolutionized predictive modeling, enabling accurate forecasting, pattern recognition, and automation.
 
+<br>
 
 # Portfolio Contents
 
@@ -86,16 +87,16 @@ I have taken ethical considerations into account in this project. The dataset do
 
 Regarding regulations, I followed standard data handling practices and complied with relevant data protection regulations such as GDPR.
 
-### Code Samples:
-
 ### Visualizations:
-I used various data visualizations to enhance our understanding of the California housing dataset. They provide a clear visual representation of the data distribution, relationships, and summary statistics. These visualizations:
+I used various data visualizations to enhance our understanding of the California housing dataset. They provide a clear visual representation of the data distribution, relationships, and summary statistics. These visualizations include:
 1. **Histograms:** Utilized to visualize the distribution of key variables, including Median House Value, Median Income, Median Age, Total Rooms, Total Bedrooms, Population, and Households. Histograms provide insights into the data's central tendencies and spread, allowing for a better understanding of the data's characteristics.
 2. **Count Plot:** Used to display the distribution of the 'ocean_proximity' variable. This count plot helps to visualize the frequency of different categories within the variable, which helps to understand the makeup of the categorical data.
 3. **Scatter Plot:** Created to illustrate the relationship between Median Income and Median House Value. Scatter plots reveal potential patterns or correlations between two continuous variables, helping identify trends in the data.
 4. **Heatmap:** I used a heatmap to visualize missing data in the dataset. The heatmap provides a color-coded grid that helps us quickly identify areas with missing values. This is crucial for understanding the completeness of the dataset.
 5. **Box Plots:** Used to visualize the distribution of Median House Value, Median Income, Median Age, Total Rooms, Total Bedrooms, Population, and Households. Box plots provide a summary of the data's central tendencies, spread, and the presence of outliers, facilitating comparisons across variables.
 6. **QQ Plots:** I used QQ plots to check if the distributions of Median House Value and Median Income were close to a normal (bell-shaped) distribution. These plots helped us detect any deviations from the typical bell curve shape, which can be important for certain statistical analyses.
+
+### Code Samples:
    
 ### Opportunities and Challenges:
 **Opportunities:**
