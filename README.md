@@ -187,6 +187,7 @@ Scatterplot on Median Income Vs Median House Value:
 
 ## Inclusion and utilisation of online sources/links/blogs/data sources:
 **Dataset:** [Kaggle](https://www.kaggle.com/datasets/abdallahsamman/california-housing-with-name-of-counties/data)
+
 **Blog:** [Medium](https://towardsdatascience.com/create-a-model-to-predict-house-prices-using-python-d34fe8fad88f)
 
 ## Ethics and Regulations:
