@@ -95,7 +95,7 @@ The code block below provides some exploratory data analysis. It prints the numb
 
 ![missing data](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/273c6e91-3f54-4827-aba4-6dec8677f31f)
 
-Heatmap to visualize missing data
+Heatmap to visualise missing data:
 
 ![visualisation](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/39111626-69e7-4ec3-b095-cef37505394f)
 
@@ -104,20 +104,20 @@ Heatmap to visualize missing data
 - Python for data manipulation and analysis
 - Pandas for data handling
 - NumPy for numerical operations
-- Matplotlib and Seaborn for data visualization
+- Matplotlib and Seaborn for data visualisation
 - Statsmodels for statistical analysis
-- Plotly Express for interactive visualizations
+- Plotly Express for interactive visualisations
 
 ## Techniques and Models:
-In this project, I primarily focused on descriptive statistics and data visualization techniques. I used histograms, box plots, and QQ plots to understand the distribution and summary statistics of key features like median house value, median income, and median age. Scatter plots were used to explore relationships between median income and median house value in different cities.
+In this project, I primarily focused on descriptive statistics and data visualisation techniques. I used histograms, box plots, and QQ plots to understand the distribution and summary statistics of key features like median house value, median income, and median age. Scatter plots were used to explore relationships between median income and median house value in different cities.
 
 ## Visualisations:
-I used various data visualisations to enhance our understanding of the California housing dataset. They provide a clear visual representation of the data distribution, relationships, and summary statistics. These visualizations include:
-1. **Histograms:** Utilized to visualize the distribution of key variables, including Median House Value, Median Income, Median Age, Total Rooms, Total Bedrooms, Population, and Households. Histograms provide insights into the data's central tendencies and spread, allowing for a better understanding of the data's characteristics.
-2. **Count Plot:** Used to display the distribution of the 'ocean_proximity' variable. This count plot helps to visualize the frequency of different categories within the variable, which helps to understand the makeup of the categorical data.
+I used various data visualisations to enhance our understanding of the California housing dataset. They provide a clear visual representation of the data distribution, relationships, and summary statistics. These visualisations include:
+1. **Histograms:** Utilized to visualise the distribution of key variables, including Median House Value, Median Income, Median Age, Total Rooms, Total Bedrooms, Population, and Households. Histograms provide insights into the data's central tendencies and spread, allowing for a better understanding of the data's characteristics.
+2. **Count Plot:** Used to display the distribution of the 'ocean_proximity' variable. This count plot helps to visualise the frequency of different categories within the variable, which helps to understand the makeup of the categorical data.
 3. **Scatter Plot:** Created to illustrate the relationship between Median Income and Median House Value. Scatter plots reveal potential patterns or correlations between two continuous variables, helping identify trends in the data.
-4. **Heatmap:** I used a heatmap to visualize missing data in the dataset. The heatmap provides a color-coded grid that helps us quickly identify areas with missing values. This is crucial for understanding the completeness of the dataset.
-5. **Box Plots:** Used to visualize the distribution of Median House Value, Median Income, Median Age, Total Rooms, Total Bedrooms, Population, and Households. Box plots provide a summary of the data's central tendencies, spread, and the presence of outliers, facilitating comparisons across variables.
+4. **Heatmap:** I used a heatmap to visualise missing data in the dataset. The heatmap provides a color-coded grid that helps us quickly identify areas with missing values. This is crucial for understanding the completeness of the dataset.
+5. **Box Plots:** Used to visualise the distribution of Median House Value, Median Income, Median Age, Total Rooms, Total Bedrooms, Population, and Households. Box plots provide a summary of the data's central tendencies, spread, and the presence of outliers, facilitating comparisons across variables.
 6. **QQ Plots:** I used QQ plots to check if the distributions of Median House Value and Median Income were close to a normal (bell-shaped) distribution. These plots helped us detect any deviations from the typical bell curve shape, which can be important for certain statistical analyses.
 
 ## Data Visualisation: Visualising Key Housing Metrics
@@ -133,23 +133,23 @@ Summary statistics for the column Median Income:
 
 ![income](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/08839a69-3040-4bb5-8b8f-359c0880429a)
 
-Summary statistics for the column Median Age:
+Median Age of a house within a block:
 
 ![age](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/ab753553-560a-4f4d-831a-cf96d5281db8)
 
-Summary statistics for the column Total Rooms:
+Number of Rooms per Block:
 
 ![rooms](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/93795510-f40b-41ff-9bdc-dd26c640ac16)
 
-Summary statistics for the column Total Bedrooms:
+Number of Bedrooms per Block:
 
 ![bedrooms](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/793aa08e-b5cf-43bd-9f81-c74e5cff1318)
 
-Summary statistics for the column Population:
+Total number of people residing within a block:
 
 ![population](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/3c4b9a26-e5e8-4bc2-ae12-b48a3cdbc710)
 
-Summary statistics for the column Households:
+Total number of househoulds within a block:
 
 ![households](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/3aab65e6-f7e5-45fd-a89c-1be336d0e68d)
 
@@ -161,7 +161,7 @@ Distribution of ocean proximity in California:
 
 ![proximity](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/f437a158-ad9c-4451-9d46-cdf4587bac97)
 
-Median Income Vs Median House Value:
+Scatterplot on Median Income Vs Median House Value:
 
 ![vs](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/c9ce6ed6-d50b-49c5-826f-0efc06c45199)
 
@@ -174,11 +174,11 @@ Regarding regulations, I followed standard data handling practices and complied 
 ## Opportunities and Challenges:
 **Opportunities:**
 - Through this project, I gained valuable insights into the factors influencing housing prices in California cities.
-- The use of various data visualization techniques helped me communicate my findings effectively.
+- The use of various data visualisation techniques helped me communicate my findings effectively.
 
 **Challenges:**
 - Data preprocessing, including handling missing values, was necessary to ensure data quality.
-- Selecting the most appropriate visualization techniques for each feature was a challenge but resulted in informative visualizations.
+- Selecting the most appropriate visualisation techniques for each feature was a challenge but resulted in informative visualisations.
 
 <br>
 
