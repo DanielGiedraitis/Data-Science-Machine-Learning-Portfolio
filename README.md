@@ -77,11 +77,15 @@ This code displays the first five rows of the "Data" DataFrame. It provides a qu
 
 This displays the last five rows of the "Data" DataFrame, showing the data's end.
 
-![tail](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/028c08f2-4501-4014-ae63-6bcc8691aab2)
+![tail](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/37f9cb6c-e10d-4340-b646-67135e8db46a)
 
 Data.info() provides an overview of the dataset's information, including the number of non-null entries, data types of each column, and memory usage. It's useful for understanding the data's structure and identifying any missing values.
 
 ![info](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/17a97e8c-1a19-4480-8e71-32097d7c4355)
+
+The following code drops the 'Id' column from the California Houses dataset. This step is performed to remove unnecessary columns that may not contribute to the model's prediction.
+
+![drop](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/5df769c2-dc00-4302-892f-a8d811057afa)
 
 Data.describe() generates summary statistics for numerical columns in the dataset. It includes statistics such as mean, standard deviation, minimum, maximum, and quartiles. This summary provides an initial understanding of the distribution of numerical data.
 
@@ -96,14 +100,6 @@ Heatmap to visualize missing data
 ![visualisation](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/172b3c22-d1b4-4011-99be-1df6fc827eed)
 
 
-
-
-
-
-
-
-
-  
 ## Tools and Technologies:
 - Python for data manipulation and analysis
 - Pandas for data handling
@@ -115,8 +111,8 @@ Heatmap to visualize missing data
 ## Techniques and Models:
 In this project, I primarily focused on descriptive statistics and data visualization techniques. I used histograms, box plots, and QQ plots to understand the distribution and summary statistics of key features like median house value, median income, and median age. Scatter plots were used to explore relationships between median income and median house value in different cities.
 
-## Visualizations:
-I used various data visualizations to enhance our understanding of the California housing dataset. They provide a clear visual representation of the data distribution, relationships, and summary statistics. These visualizations include:
+## Visualisations:
+I used various data visualisations to enhance our understanding of the California housing dataset. They provide a clear visual representation of the data distribution, relationships, and summary statistics. These visualizations include:
 1. **Histograms:** Utilized to visualize the distribution of key variables, including Median House Value, Median Income, Median Age, Total Rooms, Total Bedrooms, Population, and Households. Histograms provide insights into the data's central tendencies and spread, allowing for a better understanding of the data's characteristics.
 2. **Count Plot:** Used to display the distribution of the 'ocean_proximity' variable. This count plot helps to visualize the frequency of different categories within the variable, which helps to understand the makeup of the categorical data.
 3. **Scatter Plot:** Created to illustrate the relationship between Median Income and Median House Value. Scatter plots reveal potential patterns or correlations between two continuous variables, helping identify trends in the data.
