@@ -21,7 +21,7 @@ Welcome to my data science and machine learning portfolio, showcasing a collecti
 6. [Future Potential Projects](#Future-Potential-Projects)
    - [Project 1: English Premier League Match Predictions & Player Statistics](#Project-1-English-Premier-League-Match-Predictions-&-Player-Statistics)
    - [Project 2: Road Lane Line Detection](#Project-1-Road-Lane-Line-Detection)
-   - [Project 3: Visualizing Climate Change](#Project-2-Visualizing-Climate-Change)
+   - [Project 3: Visualizing Climate Change](#Project-2-Visualising-Climate-Change)
 8. [References](#References)
 
 
