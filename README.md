@@ -48,7 +48,6 @@ In a world increasingly driven by data, the ability to harness the power of data
 
 # Background
 The utility and significance of my portfolio come from its ability to demonstrate my expertise in data science and machine learning to future employers and collaborators. Data science has become the cornerstone of innovation across industries, from healthcare and finance to marketing and e-commerce. Machine learning, a subset of artificial intelligence, has revolutionized predictive modeling, enabling accurate forecasting, pattern recognition, and automation.
-- Talk about the significance of your portfolio in showcasing your skills and expertise to potential employers or collaborators. Explain how it can benefit them.
 
 
 # Portfolio Contents
