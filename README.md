@@ -120,7 +120,49 @@ I used various data visualisations to enhance our understanding of the Californi
 5. **Box Plots:** Used to visualize the distribution of Median House Value, Median Income, Median Age, Total Rooms, Total Bedrooms, Population, and Households. Box plots provide a summary of the data's central tendencies, spread, and the presence of outliers, facilitating comparisons across variables.
 6. **QQ Plots:** I used QQ plots to check if the distributions of Median House Value and Median Income were close to a normal (bell-shaped) distribution. These plots helped us detect any deviations from the typical bell curve shape, which can be important for certain statistical analyses.
 
-## Code Samples:
+## Data Visualisation: Visualising Key Housing Metrics
+Summary statistics for the column Median House Value
+
+![MedianHouse](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/6c54021d-e70e-4c3f-bdfb-fb4443a9c7ee)
+
+Visually test if Median House Value is normally distributed using a QQ plot
+
+![MedianHouse2](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/0cea3653-ed69-41ad-b671-751df9dbbfe5)
+
+Summary statistics for the column Median Income
+
+![income](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/08839a69-3040-4bb5-8b8f-359c0880429a)
+
+Summary statistics for the column Median Age
+
+![age](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/ab753553-560a-4f4d-831a-cf96d5281db8)
+
+Summary statistics for the column Total Rooms
+
+![rooms](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/93795510-f40b-41ff-9bdc-dd26c640ac16)
+
+Summary statistics for the column Total Bedrooms
+
+![bedrooms](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/793aa08e-b5cf-43bd-9f81-c74e5cff1318)
+
+Summary statistics for the column Population
+
+![population](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/3c4b9a26-e5e8-4bc2-ae12-b48a3cdbc710)
+
+Summary statistics for the column Households
+
+![households](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/3aab65e6-f7e5-45fd-a89c-1be336d0e68d)
+
+Distribution of cities in California
+
+Distribution of ocean proximity in California
+
+![proximity](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/f437a158-ad9c-4451-9d46-cdf4587bac97)
+
+Median Income Vs Median House Value
+
+![vs](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/c9ce6ed6-d50b-49c5-826f-0efc06c45199)
+
 
 ## Ethics and Regulations:
 I have taken ethical considerations into account in this project. The dataset does not contain sensitive personal information, and I have not performed any advanced machine learning techniques that could potentially lead to bias or unfairness. I ensured the privacy of data by not disclosing any personally identifiable information.
