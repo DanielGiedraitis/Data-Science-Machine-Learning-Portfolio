@@ -224,7 +224,7 @@ Regarding regulations, I followed standard data handling practices and complied 
 ### Project 1: English Premier League Match Predictions & Player Statistics
 
 
-### Project 2: Visualizing Climate Change
+### Project 2: Visualising Climate Change
 
 
 ### Project 3: Road Lane Line Detection 
