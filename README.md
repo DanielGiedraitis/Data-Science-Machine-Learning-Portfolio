@@ -73,6 +73,32 @@ Data preprocessing is a crucial step in any data analysis project. In this proje
 ### Data Preprocessing section:
 This code displays the first five rows of the "Data" DataFrame. It provides a quick look at the dataset to see what the data looks like at the beginning.
 
+![head](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/581700e9-2288-4977-8f14-58638a817450)
+
+This displays the last five rows of the "Data" DataFrame, showing the data's end.
+
+![tail](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/028c08f2-4501-4014-ae63-6bcc8691aab2)
+
+Data.info() provides an overview of the dataset's information, including the number of non-null entries, data types of each column, and memory usage. It's useful for understanding the data's structure and identifying any missing values.
+
+![info](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/17a97e8c-1a19-4480-8e71-32097d7c4355)
+
+Data.describe() generates summary statistics for numerical columns in the dataset. It includes statistics such as mean, standard deviation, minimum, maximum, and quartiles. This summary provides an initial understanding of the distribution of numerical data.
+
+![latitude](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/7d998961-ffa4-444e-b5a2-10c37664dcba)
+
+The code block below provides some exploratory data analysis. It prints the number of data points in the dataset, checks for duplicates, and identifies missing values in the DataFrame. It also replaces empty values with NaN and rechecks the missing values after replacement.
+
+![missing data](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/273c6e91-3f54-4827-aba4-6dec8677f31f)
+
+Heatmap to visualize missing data
+
+![visualisation](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/172b3c22-d1b4-4011-99be-1df6fc827eed)
+
+
+
+
+
 
 
 
