@@ -14,7 +14,7 @@ Welcome to my data science and machine learning portfolio, showcasing a collecti
 2. [Introduction](#Introduction)
 3. [Background](#Background)
 4. [Portfolio Contents](#Portfolio-Contents)
-   - [Project 1: ](#Project-1)
+   - [Project 1: Exploratory Data Analysis for California Housin](#Project-1-Exploratory-Data-Analysis-for-California-Housin)
    - [Project 2: ](#Project-2)
    - [Project 3: ](#Project-3)
 5. [Technologies Used In Portfolio](#Technologies-Used-In-Portfolio)
@@ -53,7 +53,7 @@ The utility and significance of my portfolio come from its ability to demonstrat
 
 ## Portfolio Contents
 
-### Project 1: 
+### Project 1: Exploratory Data Analysis for California Housin
 
 - **Description**: Description of the project.
 - **Data Sets**: Data sets used in your project. Explain their sources, size, and relevance to the problem.
