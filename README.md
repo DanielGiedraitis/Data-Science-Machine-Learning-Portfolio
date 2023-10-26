@@ -107,6 +107,8 @@ Regarding regulations, I followed standard data handling practices and complied 
 - Data preprocessing, including handling missing values, was necessary to ensure data quality.
 - Selecting the most appropriate visualization techniques for each feature was a challenge but resulted in informative visualizations.
 
+<br>
+
 ### Project 2:
 
 
