@@ -62,11 +62,31 @@ I used the ['California_Housing_Cities.csv'](https://github.com/DanielGiedraitis
 
 The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/abdallahsamman/california-housing-with-name-of-counties/data) and is relevant to the problem as it provides comprehensive information about housing in California cities.
 
+**Dataset details:**
+1. Unique identifier for each data point in the dataset.
+2. Median House Value: Median value of houses in a block (in US Dollars) [$]
+3. Median Income: Median income of households in a block (in tens of thousands of US Dollars) [10k$]
+4. Median Age: Median age of houses in a block (in years)
+5. Total Rooms: Total number of rooms in a block
+6. Total Bedrooms: Total number of bedrooms in a block
+7. Population: Total number of residents in a block
+8. Households: Total number of households in a block
+9. Latitude: Indicates how far north a house is (higher value means farther north) [°]
+10. Longitude: Indicates how far west a house is (higher value means farther west) [°]
+11. Distance to Coast: Distance to the nearest coastal point [m]
+12. Distance to Los Angeles: Distance to the center of Los Angeles [m]
+13. Distance to San Diego: Distance to the center of San Diego [m]
+14. Distance to San Jose: Distance to the center of San Jose [m]
+15. Distance to San Francisco: Distance to the center of San Francisco [m]
+16. Relative location of the block in relation to the ocean, providing insights into the proximity of the housing block to the coast.
+17. The county in which the household resides.
+
+
 ## Data Processing Techniques:
 Data preprocessing is a crucial step in any data analysis project. In this project, I performed several data processing tasks, including:
-- Removal of the 'Id' column, which was irrelevant for the analysis.
-- Handling of missing values by identifying and replacing empty strings with NaN values.
-- Calculated new features to better understand the dataset.
+- **Removal of Irrelevant Columns:** Removal of the 'Id' column, which had no relevance for the analysis.
+- **Handling Missing Values:** Addressing missing data by identifying and replacing empty strings with NaN values.
+- **Feature Engineering:** Calculating new features to gain deeper insights into the dataset.
 
 ## Code Samples:
 
