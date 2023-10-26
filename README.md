@@ -132,7 +132,7 @@ Heatmap to visualise missing data:
 In this project, I primarily focused on descriptive statistics and data visualisation techniques. I used histograms, box plots, and QQ plots to understand the distribution and summary statistics of key features like median house value, median income, and median age. Scatter plots were used to explore relationships between median income and median house value in different cities.
 
 ## Visualisations:
-I used various data visualisations to enhance our understanding of the California housing dataset. They provide a clear visual representation of the data distribution, relationships, and summary statistics. These visualisations include:
+I used various data visualisations to enhance my understanding of the California housing dataset. They provide a clear visual representation of the data distribution, relationships, and summary statistics. These visualisations include:
 1. **Histograms:** Utilized to visualise the distribution of key variables, including Median House Value, Median Income, Median Age, Total Rooms, Total Bedrooms, Population, and Households. Histograms provide insights into the data's central tendencies and spread, allowing for a better understanding of the data's characteristics.
 2. **Count Plot:** Used to display the distribution of the 'ocean_proximity' variable. This count plot helps to visualise the frequency of different categories within the variable, which helps to understand the makeup of the categorical data.
 3. **Scatter Plot:** Created to illustrate the relationship between Median Income and Median House Value. Scatter plots reveal potential patterns or correlations between two continuous variables, helping identify trends in the data.
