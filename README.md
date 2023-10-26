@@ -69,6 +69,14 @@ Data preprocessing is a crucial step in any data analysis project. In this proje
 - Calculated new features to better understand the dataset.
 
 ## Code Samples:
+
+### Data Preprocessing section:
+This code displays the first five rows of the "Data" DataFrame. It provides a quick look at the dataset to see what the data looks like at the beginning.
+
+
+
+
+
   
 ## Tools and Technologies:
 - Python for data manipulation and analysis
