@@ -185,6 +185,9 @@ Scatterplot on Median Income Vs Median House Value:
 
 ![vs](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/c9ce6ed6-d50b-49c5-826f-0efc06c45199)
 
+## Inclusion and utilisation of online sources/links/blogs/data sources:
+**Dataset:** [Kaggle](https://www.kaggle.com/datasets/abdallahsamman/california-housing-with-name-of-counties/data)
+**Blog:** [Medium](https://towardsdatascience.com/create-a-model-to-predict-house-prices-using-python-d34fe8fad88f)
 
 ## Ethics and Regulations:
 I have taken ethical considerations into account in this project. The dataset does not contain sensitive personal information, and I have not performed any advanced machine learning techniques that could potentially lead to bias or unfairness. I ensured the privacy of data by not disclosing any personally identifiable information.
