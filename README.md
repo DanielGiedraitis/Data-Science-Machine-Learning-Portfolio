@@ -175,10 +175,12 @@ Regarding regulations, I followed standard data handling practices and complied 
 **Opportunities:**
 - Through this project, I gained valuable insights into the factors influencing housing prices in California cities.
 - The use of various data visualisation techniques helped me communicate my findings effectively.
+- Exploring the California housing market dataset presented an opportunity to work on a real-world problem, strengthening my practical data science knowledge.
 
 **Challenges:**
 - Data preprocessing, including handling missing values, was necessary to ensure data quality.
 - Selecting the most appropriate visualisation techniques for each feature was a challenge but resulted in informative visualisations.
+- Managing the balance between data accuracy and privacy was a challenge, especially when dealing with geographic data.
 
 <br>
 
@@ -190,11 +192,10 @@ Regarding regulations, I followed standard data handling practices and complied 
 <br>
 
 ## Technologies Used In Portfolio
-- **Programming Languages**: Python, R, SQL, Java, C++ etc...
-- **Platforms**: Jupyter Notebook, Anaconda, Posit, Alteryx etc...
-- **Frameworks**: TensorFlow, Scikit-learn, Keras, Pandas etc...
-- **Data Visualization Tools**: Tableau, Looker, Zoho Analytics, Sisense, Qlik Sense etc...
-- **Databases**: Redis, PostgreSQL, MySQL, MongoDB etc...
+- **Programming Languages**: Python, SQL, Java, C++.
+- **Platforms**: Jupyter Notebook, Anaconda, Posit, Alteryx.
+- **Frameworks and Libraries**: Pandas (for data manipulation and analysis), NumPy (for numerical operations), Matplotlib (for basic data visualisation), Seaborn (for advanced data visualisation), Statsmodels (for statistical analysis), Plotly Express (for interactive visualisations).
+- **Databases**: Redis, PostgreSQL, MySQL, MongoDB.
 
 
 ## Future Potential Projects
