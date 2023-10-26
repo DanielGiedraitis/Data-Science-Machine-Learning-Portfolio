@@ -63,7 +63,7 @@ I used the 'California_Housing_Cities.csv' dataset, which contains information o
 
 The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/abdallahsamman/california-housing-with-name-of-counties/data) and is relevant to the problem as it provides comprehensive information about housing in California cities.
 
-### Tools and Technologies
+### Tools and Technologies:
 - Python for data manipulation and analysis
 - Pandas for data handling
 - NumPy for numerical operations
@@ -71,23 +71,23 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/abdallahs
 - Statsmodels for statistical analysis
 - Plotly Express for interactive visualizations
 
-### Techniques and Models
+### Techniques and Models:
 In this project, I primarily focused on descriptive statistics and data visualization techniques. I used histograms, box plots, and QQ plots to understand the distribution and summary statistics of key features like median house value, median income, and median age. Scatter plots were used to explore relationships between median income and median house value in different cities.
 
-### Ethics and Regulations
+### Ethics and Regulations:
 I have taken ethical considerations into account in this project. The dataset does not contain sensitive personal information, and I have not performed any advanced machine learning techniques that could potentially lead to bias or unfairness. I ensured the privacy of data by not disclosing any personally identifiable information.
 
 Regarding regulations, I followed standard data handling practices and complied with relevant data protection regulations such as GDPR.
 
-### Code Samples
+### Code Samples:
 
-### Visualizations
+### Visualizations:
 I used various data visualizations to enhance our understanding of the California housing dataset. These visualizations include histograms, box plots, QQ plots, and scatter plots. They provide a clear visual representation of the data distribution, relationships, and summary statistics.
 
-### Model Performance Metrics
+### Model Performance Metrics:
 As this project focuses on exploratory data analysis, I didn't use machine learning models, and therefore, there are no model performance metrics to report.
 
-### Opportunities and Challenges
+### Opportunities and Challenges:
 
 ### Project 2:
 
