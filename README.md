@@ -14,13 +14,14 @@ Welcome to my data science and machine learning portfolio, showcasing a collecti
 2. [Introduction](#Introduction)
 3. [Background](#Background)
 4. [Portfolio Contents](#Portfolio-Contents)
-   - [Project 1: English Premier League Match Predictions & Player Statistics](#Project-1-English-Premier-League-Match-Predictions-&-Player-Statistics)
+   - [Project 1: ](#Project-1)
    - [Project 2: ](#Project-2)
    - [Project 3: ](#Project-3)
 5. [Technologies Used In Portfolio](#Technologies-Used-In-Portfolio)
 6. [Future Potential Projects](#Future-Potential-Projects)
-   - [Project 1: Road Lane Line Detection](#Project-1-Road-Lane-Line-Detection)
-   - [Project 2: Visualizing Climate Change](#Project-2-Visualizing-Climate-Change)
+   -[Project 1: English Premier League Match Predictions & Player Statistics](#Project-1-English-Premier-League-Match-Predictions-&-Player-Statistics)
+   - [Project 2: Road Lane Line Detection](#Project-1-Road-Lane-Line-Detection)
+   - [Project 3: Visualizing Climate Change](#Project-2-Visualizing-Climate-Change)
 8. [References](#References)
 
 
@@ -83,10 +84,13 @@ The utility and significance of my portfolio come from its ability to demonstrat
 ## Future Potential Projects
 
 
-### Project 1: Road Lane Line Detection 
+### Project 1: English Premier League Match Predictions & Player Statistics
 
 
 ### Project 2: Visualizing Climate Change
+
+
+### Project 3: Road Lane Line Detection 
 
 <br>
 
