@@ -58,7 +58,7 @@ The utility and significance of my portfolio come from its ability to demonstrat
 In this project, I aim to perform an exploratory data analysis (EDA) on a dataset of California housing. The primary goal is to gain insights into the factors that affect median house values in different cities in California. This analysis will be beneficial for potential homebuyers and real estate investors in understanding the key drivers of housing prices in the region.
 
 ### Data Sets:
-I used the 'California_Housing_Cities.csv' dataset, which contains information on various features related to housing in California cities. The dataset consists of approximately [20640] rows and [17] columns, including features like median house value, income, age, and geographical data. 
+I used the 'California_Housing_Cities.csv' dataset, which contains information on various features related to housing in California cities. The dataset consists of 20640 rows and 17 columns, including features like median house value, income, age, and geographical data. 
 
 The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/abdallahsamman/california-housing-with-name-of-counties/data) and is relevant to the problem as it provides comprehensive information about housing in California cities.
 
