@@ -89,21 +89,13 @@ Regarding regulations, I followed standard data handling practices and complied 
 ### Code Samples:
 
 ### Visualizations:
-I used various data visualizations to enhance our understanding of the California housing dataset. These visualizations include histograms, box plots, QQ plots, and scatter plots. They provide a clear visual representation of the data distribution, relationships, and summary statistics.
-1. Histograms of key variables, such as Median House Value, Median Income, Median Age, Total Rooms, Total Bedrooms, Population, and Households.
-2. A count plot of the 'ocean_proximity' variable.
-3. A scatter plot showing the relationship between Median Income and Median House Value.
-4. Heatmap to visualize missing data in the dataset.
-
-Histograms: Utilized to visualize the distribution of key variables, including Median House Value, Median Income, Median Age, Total Rooms, Total Bedrooms, Population, and Households. Histograms provide insights into the data's central tendencies and spread, allowing for a better understanding of the data's characteristics.
-
-Count Plot: Used to display the distribution of the 'ocean_proximity' variable. This count plot showcases the frequency of different categories within the variable, aiding in understanding the categorical data's composition.
-
-Scatter Plot: Created to illustrate the relationship between Median Income and Median House Value. Scatter plots reveal potential patterns or correlations between two continuous variables, helping identify trends in the data.
-
-Box Plots: Utilized to visualize the distribution of Median House Value, Median Income, Median Age, Total Rooms, Total Bedrooms, Population, and Households. Box plots provide a summary of the data's central tendencies, spread, and the presence of outliers, facilitating comparisons across variables.
-
-QQ Plots: Employed to assess the normality of Median House Value and Median Income distributions. QQ plots compare the data's quantiles to those of a theoretical normal distribution, helping to identify departures from normality.
+I used various data visualizations to enhance our understanding of the California housing dataset. They provide a clear visual representation of the data distribution, relationships, and summary statistics. These visualizations:
+1. **Histograms:** Utilized to visualize the distribution of key variables, including Median House Value, Median Income, Median Age, Total Rooms, Total Bedrooms, Population, and Households. Histograms provide insights into the data's central tendencies and spread, allowing for a better understanding of the data's characteristics.
+2. **Count Plot:** Used to display the distribution of the 'ocean_proximity' variable. This count plot helps to visualize the frequency of different categories within the variable, which helps to understand the makeup of the categorical data.
+3. **Scatter Plot:** Created to illustrate the relationship between Median Income and Median House Value. Scatter plots reveal potential patterns or correlations between two continuous variables, helping identify trends in the data.
+4. **Heatmap:** I used a heatmap to visualize missing data in the dataset. The heatmap provides a color-coded grid that helps us quickly identify areas with missing values. This is crucial for understanding the completeness of the dataset.
+5. **Box Plots:** Used to visualize the distribution of Median House Value, Median Income, Median Age, Total Rooms, Total Bedrooms, Population, and Households. Box plots provide a summary of the data's central tendencies, spread, and the presence of outliers, facilitating comparisons across variables.
+6. **QQ Plots:** I used QQ plots to check if the distributions of Median House Value and Median Income were close to a normal (bell-shaped) distribution. These plots helped us detect any deviations from the typical bell curve shape, which can be important for certain statistical analyses.
    
 ### Opportunities and Challenges:
 **Opportunities:**
