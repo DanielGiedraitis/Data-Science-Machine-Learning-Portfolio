@@ -16,7 +16,6 @@ Welcome to my data science and machine learning portfolio, showcasing a collecti
 4. [Portfolio Contents](#Portfolio-Contents)
    - [Project 1: Exploratory Data Analysis for California Housing](#Project-1-Exploratory-Data-Analysis-for-California-Housing)
    - [Project 2: ](#Project-2)
-   - [Project 3: ](#Project-3)
 5. [Technologies Used In Portfolio](#Technologies-Used-In-Portfolio)
 6. [Future Potential Projects](#Future-Potential-Projects)
    - [Project 1: English Premier League Match Predictions & Player Statistics](#Project-1-English-Premier-League-Match-Predictions-&-Player-Statistics)
@@ -215,9 +214,15 @@ In this project, I undertook a comprehensive Exploratory Data Analysis (EDA) foc
 ## Data Sets: 
 I used the ['Motor_Vehicle_Collisions_-_Crashes.csv']() dataset, which contains information on various features related to New York Motor Vehicle Collisions. The dataset consists of 2,010,526 rows and 29 columns, including features like crash date, crash time, location, number of persons injured, number of persons killed, types of vehicles etc...
 
+The dataset was obtained from [NYC Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95) and is relevant to the problem as it provides comprehensive information about New York Motor Vehicle Collisions.
 
-# Project 3:
+## Tools and Technologies:
+- Python for data manipulation and analysis
+- Pandas for data handling
+- NumPy for numerical operations
+- Matplotlib and Seaborn for data visualisation
 
+  
 <br>
 
 ## Technologies Used In Portfolio
