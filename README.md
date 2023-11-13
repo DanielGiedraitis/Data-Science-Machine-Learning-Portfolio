@@ -207,6 +207,8 @@ Regarding regulations, I followed standard data handling practices and complied 
 
 <br>
 
+---
+
 # [Project 2: New York Motor Vehicle Collisions]()
 ## Description:
 In this project, I undertook a comprehensive Exploratory Data Analysis (EDA) focused on motor vehicle collisions in New York. The goal was to delve into the extensive dataset related to vehicular incidents, aiming to extract meaningful insights into collision patterns across different areas of New York. The primary aim of this analysis is to offer valuable information for drivers, law enforcement, and urban planners. By identifying key patterns and trends within the data, this analysis aims to contribute to informed decision-making regarding road safety measures, traffic management, and overall improvement in the city's transportation infrastructure.
