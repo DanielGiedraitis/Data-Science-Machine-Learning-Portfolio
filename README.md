@@ -15,7 +15,7 @@ Welcome to my data science and machine learning portfolio, showcasing a collecti
 3. [Background](#Background)
 4. [Portfolio Contents](#Portfolio-Contents)
    - [Project 1: Exploratory Data Analysis for California Housing](#Project-1-Exploratory-Data-Analysis-for-California-Housing)
-   - [Project 2: ](#Project-2)
+   - [Project 2: New York Motor Vehicle Collisions](#Project-2-New-York-Motor-Vehicle-Collisions)
 5. [Technologies Used In Portfolio](#Technologies-Used-In-Portfolio)
 6. [Future Potential Projects](#Future-Potential-Projects)
    - [Project 1: English Premier League Match Predictions & Player Statistics](#Project-1-English-Premier-League-Match-Predictions-&-Player-Statistics)
