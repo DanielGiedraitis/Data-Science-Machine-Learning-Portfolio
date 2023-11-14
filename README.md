@@ -224,6 +224,24 @@ The dataset was obtained from [NYC Data](https://data.cityofnewyork.us/Public-Sa
 - NumPy for numerical operations
 - Matplotlib and Seaborn for data visualisation
 
+## Inclusion and utilisation of online sources/links/blogs/data sources:
+**Dataset:** [NYC Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
+
+## Ethics and Regulations:
+I have taken ethical considerations into account in this project. The dataset does not contain sensitive personal information, and I have not performed any advanced machine learning techniques that could potentially lead to bias or unfairness. I ensured the privacy of data by not disclosing any personally identifiable information.
+
+Regarding regulations, I followed standard data handling practices and complied with relevant data protection regulations such as GDPR.
+
+## Opportunities and Challenges:
+**Opportunities:**
+- Through this project, I gained valuable insights into the factors influencing motor vehicle collisions in New York.
+- The use of various data visualization techniques helped me communicate my findings effectively.
+- Exploring the New York motor vehicle collisions dataset presented an opportunity to work on a real-world problem, strengthening my practical data science knowledge.
+
+**Challenges:**
+- Data preprocessing, including handling missing values, was necessary to ensure data quality.
+- Selecting the most appropriate visualisation techniques for each feature was a challenge but resulted in informative visualisations.
+- Managing the balance between data accuracy and privacy was a challenge, especially when dealing with geographic data.
   
 <br>
 
