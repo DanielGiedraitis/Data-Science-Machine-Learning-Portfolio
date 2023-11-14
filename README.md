@@ -218,11 +218,58 @@ I used the ['Motor_Vehicle_Collisions_-_Crashes.csv']() dataset, which contains 
 
 The dataset was obtained from [NYC Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95) and is relevant to the problem as it provides comprehensive information about New York Motor Vehicle Collisions.
 
+**Dataset details:**
+1. CRASH DATE: Occurrence date of collision Date & Time.
+2. CRASH TIME: Occurrence time of collision.
+3. CRASH MONTH Occurrence month of collision.
+4. CRASH HOUR: Occurrence hour of collision.
+5. CRASH WEEK: Occurrence week of collision.
+6. CRASH SEASON: Occurrence season of collision.
+7. NUMBER OF PERSONS INJURED: Number of persons injured.
+8. NUMBER OF PERSONS KILLED: Number of persons killed.
+9. NUMBER OF PEDESTRIANS INJURED: Number of pedestrians injured.
+10. NUMBER OF PEDESTRIANS KILLED: Number of pedestrians killed.
+11. NUMBER OF CYCLIST INJURED: Number of cyclists injured.
+12. NUMBER OF CYCLIST KILLED: Number of cyclists killed.
+13. NUMBER OF MOTORIST INJURED: Number of vehicle occupants injured.
+14. NUMBER OF MOTORIST KILLED: Number of vehicle occupants killed.
+15. CONTRIBUTING FACTOR VEHICLE 1: Factors contributing to the collision for designated vehicle.
+16. CONTRIBUTING FACTOR VEHICLE 2: Factors contributing to the collision for designated vehicle.
+17. VEHICLE TYPE CODE 1: Type of vehicle based on the selected vehicle category (ATV, bicycle, car/suv, ebike, escooter, truck/bus, motorcycle, other).
+18. VEHICLE TYPE CODE 2: Type of vehicle based on the selected vehicle category (ATV, bicycle, car/suv, ebike, escooter, truck/bus, motorcycle, other).
+
+
+## Data Processing Techniques:
+Data preprocessing is a crucial step in any data analysis project. In this project, I performed several data processing tasks, including:
+- 
+- 
+- 
+
+## Code Samples:
+
 ## Tools and Technologies:
 - Python for data manipulation and analysis
 - Pandas for data handling
 - NumPy for numerical operations
 - Matplotlib and Seaborn for data visualisation
+
+## Techniques and Models:
+
+## Visualisations:
+
+## Data Visualisation: Visualising Key Road Collision Metrics
+Number Of Road Collisions Over The Years: 2012 - 2022
+
+![Image1](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/8005f6ef-f633-403d-907f-c7687117c57d)
+
+Number Of Collisions During Different Hours Of The Day:
+
+![Image2](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/86a57b26-ed54-495d-913d-a503d0a1590f)
+
+Number Of Road Collisions During Different Years And Days Of Week:
+
+![Image3](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/9fdfb03f-92d9-4239-91c2-af4167ffb416)
+
 
 ## Inclusion and utilisation of online sources/links/blogs/data sources:
 **Dataset:** [NYC Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
@@ -244,6 +291,8 @@ Regarding regulations, I followed standard data handling practices and complied 
 - Managing the balance between data accuracy and privacy was a challenge, especially when dealing with geographic data.
   
 <br>
+
+---
 
 ## Technologies Used In Portfolio
 - **Programming Languages**: Python, SQL, Java, C++.
