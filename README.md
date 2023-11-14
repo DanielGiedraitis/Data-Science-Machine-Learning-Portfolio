@@ -184,6 +184,10 @@ Scatterplot on Median Income Vs Median House Value:
 
 ![vs](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/c9ce6ed6-d50b-49c5-826f-0efc06c45199)
 
+---
+
+<br>
+
 ## Inclusion and utilisation of online sources/links/blogs/data sources:
 **Dataset:** [Kaggle](https://www.kaggle.com/datasets/abdallahsamman/california-housing-with-name-of-counties/data)
 
@@ -262,15 +266,75 @@ Number Of Road Collisions Over The Years: 2012 - 2022
 
 ![Image1](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/8005f6ef-f633-403d-907f-c7687117c57d)
 
+---
+
 Number Of Collisions During Different Hours Of The Day:
 
 ![Image2](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/86a57b26-ed54-495d-913d-a503d0a1590f)
 
 ---
+
 Number Of Road Collisions During Different Years And Days Of Week:
 
 ![Image3](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/9fdfb03f-92d9-4239-91c2-af4167ffb416)
+
 ---
+
+Number Of Road Collisons During Each Season Of The Year:
+
+![Image4](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/ac3b35ec-e87f-41fc-b1dc-8a0b2a8f2988)
+
+---
+
+Number Road Collisons Over Years and Seasons:
+
+![Image5](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/9bafc177-d538-4a67-95d1-b1705f9d31f4)
+
+---
+
+Top 5 Vehicle Types Causing Road Collisons Over Years:
+
+![Image6](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/46592f34-82aa-4b00-9a84-aa4e72b1c39b)
+
+---
+
+Comparison Of The Top 3 Factors Causing Road Collisons:
+
+![Image7](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/84a071af-16a6-42cb-90b4-5f8afba48eeb)
+
+---
+
+Number Of Collisions During Differrent Days OF The Week:
+
+![Image8](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/95258c0f-40cc-43cb-8546-98d8b3dcdc55)
+
+---
+
+Persons Injured and Persons Killed Over Years:
+
+![Image9](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/594bac2b-5e68-4f74-915c-33a457b995a6)
+
+---
+
+Pedestrians Injured and Pedestrians Killed:
+
+![Image10](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/8f3049a8-a1e8-4cf2-abc5-4e94ef2bddb6)
+
+---
+
+Cyclists Injured and Cyclists Killed:
+
+![Image11](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/879cffa2-a4c0-49cc-b4e3-e3545d1df736)
+
+---
+
+Motorists Injured and Motorists Killed
+
+![Image12](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/5a602acb-139f-40e8-bd1c-43299001904e)
+
+---
+
+<br>
 
 ## Inclusion and utilisation of online sources/links/blogs/data sources:
 **Dataset:** [NYC Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
