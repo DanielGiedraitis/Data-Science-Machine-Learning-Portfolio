@@ -266,10 +266,11 @@ Number Of Collisions During Different Hours Of The Day:
 
 ![Image2](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/86a57b26-ed54-495d-913d-a503d0a1590f)
 
+---
 Number Of Road Collisions During Different Years And Days Of Week:
 
 ![Image3](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/9fdfb03f-92d9-4239-91c2-af4167ffb416)
-
+---
 
 ## Inclusion and utilisation of online sources/links/blogs/data sources:
 **Dataset:** [NYC Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
