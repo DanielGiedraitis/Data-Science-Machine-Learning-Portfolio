@@ -291,7 +291,7 @@ The analysis involved various data visualisations to gain insights into motor ve
 
 12. **Motorists Injured and Motorists Killed:** Bar plots showcasing the number of motorists injured and killed during collisions, contributing to a comprehensive analysis of overall road safety.
 
-These visualisations collectively offer a comprehensive understanding of motor vehicle collisions in New York, highlighting temporal patterns, contributing factors, and the impact on casualties.
+These visualisations collectively offer a comprehensive understanding of motor vehicle collisions in New York, highlighting temporal patterns, contributing factors, and the impact on casualties across different categories.
 
 ## Data Visualisation: Visualising Key Road Collision Metrics
 Number Of Road Collisions Over The Years: 2012 - 2022
