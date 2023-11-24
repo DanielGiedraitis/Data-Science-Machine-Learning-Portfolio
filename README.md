@@ -121,7 +121,7 @@ Heatmap to visualise missing data:
 
 ## Tools and Technologies:
 - [Python](https://www.python.org/) for data manipulation and analysis
-- [Pandas]((https://pandas.pydata.org/) for data handling
+- [Pandas](https://pandas.pydata.org/) for data handling
 - [NumPy](https://numpy.org/) for numerical operations
 - [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) for data visualisation
 - [Statsmodels](https://www.statsmodels.org/stable/index.html) for statistical analysis
