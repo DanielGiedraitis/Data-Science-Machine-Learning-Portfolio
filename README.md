@@ -120,12 +120,12 @@ Heatmap to visualise missing data:
 
 
 ## Tools and Technologies:
-- Python for data manipulation and analysis
-- Pandas for data handling
-- NumPy for numerical operations
-- Matplotlib and Seaborn for data visualisation
-- Statsmodels for statistical analysis
-- Plotly Express for interactive visualisations
+- [Python](https://www.python.org/) for data manipulation and analysis
+- [Pandas]((https://pandas.pydata.org/) for data handling
+- [NumPy](https://numpy.org/) for numerical operations
+- [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) for data visualisation
+- [Statsmodels](https://www.statsmodels.org/stable/index.html) for statistical analysis
+- [Plotly Express](https://plotly.com/python/plotly-express/) for interactive visualisations
 
 ## Techniques and Models:
 In this project, I primarily focused on descriptive statistics and data visualisation techniques. I used histograms, box plots, and QQ plots to understand the distribution and summary statistics of key features like median house value, median income, and median age. Scatter plots were used to explore relationships between median income and median house value in different cities.
@@ -256,10 +256,10 @@ Data preprocessing is a crucial step in any data analysis project. In this proje
 ## Code Samples:
 
 ## Tools and Technologies:
-- Python for data manipulation and analysis
-- Pandas for data handling
-- NumPy for numerical operations
-- Matplotlib and Seaborn for data visualisation
+- [Python](https://www.python.org/) for data manipulation and analysis
+- [Pandas](https://pandas.pydata.org/) for data handling
+- [NumPy](https://numpy.org/) for numerical operations
+- [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) for data visualisation
 
 ## Techniques and Models:
 
@@ -392,10 +392,10 @@ Regarding regulations, I followed standard data handling practices and complied 
 ---
 
 ## Technologies Used In Portfolio
-- **Programming Languages**: Python, SQL, Java, C++.
-- **Platforms**: Jupyter Notebook, Anaconda, Posit, Alteryx.
-- **Frameworks and Libraries**: Pandas (for data manipulation and analysis), NumPy (for numerical operations), Matplotlib (for basic data visualisation), Seaborn (for advanced data visualisation), Statsmodels (for statistical analysis), Plotly Express (for interactive visualisations).
-- **Databases**: Redis, PostgreSQL, MySQL, MongoDB.
+- **Programming Languages**: [Python](https://www.python.org/), [Java](https://dev.java/), [C++](https://cplusplus.com/).
+- **Platforms**: [Jupyter Notebook](https://jupyter.org/), [Anaconda](https://www.anaconda.com/), [Posit](https://posit.co/).
+- **Frameworks and Libraries**: [Pandas](https://pandas.pydata.org/) (for data manipulation and analysis), [NumPy](https://numpy.org/) (for numerical operations), [Matplotlib](https://matplotlib.org/) (for basic data visualisation), [Seaborn](https://seaborn.pydata.org/) (for advanced data visualisation), [Statsmodels](https://www.statsmodels.org/stable/index.html) (for statistical analysis), [Plotly Express](https://plotly.com/python/plotly-express/) (for interactive visualisations).
+- **Databases**: [Redis](https://redis.com/), [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.com/).
 
 
 ## Future Potential Projects
