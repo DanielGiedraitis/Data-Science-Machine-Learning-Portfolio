@@ -262,6 +262,17 @@ Data preprocessing is a crucial step in any data analysis project. In this proje
 - [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) for data visualisation
 
 ## Techniques and Models:
+In the exploration of New York Motor Vehicle Collisions, I employed an array of analytical techniques and models to derive meaningful insights from the dataset. The primary focus was on uncovering patterns, trends, and correlations within the extensive collision data. Key techniques and models utilized include:
+
+1. **Data Visualization:** Utilized a diverse range of visual representations, including:
+   - **Bar Plots:** Showcasing yearly collision trends, hourly distribution, seasonal variations, and comparisons across different factors and casualties.
+   - **Grouped Bar Plots:** Offering insights into yearly and seasonal comparisons, top contributing factors, and vehicle type involvement.
+   - **Temporal Analysis:** Utilizing line plots or bar plots to illustrate collision trends over days, months, and seasons.
+2. **Temporal Feature Extraction:** Utilized temporal features like crash hour, crash week, and crash season extracted from crash date to recognise patterns and trends over time intervals.
+3. **Data Preprocessing Techniques:** Employed techniques like data standardization, duplicate removal, and categorical data handling to ensure data consistency and accuracy throughout the analysis.
+4. **Exploratory Data Analysis (EDA):** Performed an initial EDA to uncover outliers, understand data distributions, and identify correlations between various features related to collisions.
+
+These techniques collectively facilitated a comprehensive analysis of New York Motor Vehicle Collisions, allowing for a deeper understanding of collision patterns, contributing factors, and the impact on casualties over time.
 
 
 ## Visualisations:
