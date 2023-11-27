@@ -255,6 +255,62 @@ Data preprocessing is a crucial step in any data analysis project. In this proje
 
 ## Code Samples:
 
+### Data Preprocessing section:
+This code displays the first five rows of the "Data" DataFrame. It provides a quick look at the dataset to see what the data looks like at the beginning.
+
+![process1](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/72c39155-01b7-4f01-98c3-52ff146482e3)
+
+---
+
+This displays the last five rows of the "Data" DataFrame, showing the data's end.
+
+![process2](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/5cf9c12f-9a3d-4b27-8397-dabb4b9cfd48)
+
+---
+
+Data.info() provides an overview of the dataset's information, including the number of non-null entries, data types of each column, and memory usage. It's useful for understanding the data's structure and identifying any missing values.
+
+![process3](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/cd2f3e0d-a1d4-4c29-87a6-525118a2b8ee)
+
+---
+
+Data.shape is used after certain operations to check the dimensions of the DataFrame Data. It helps you understand the size and structure of the data after performing operations like loading data, data manipulation, column selection, or filtering.
+
+![process4](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/d9971586-9eba-4695-8ae1-891a92d40aca)
+
+---
+
+**Data Manipulation:**
+- Combined columns for date and time, converting them to a datetime format for standardized representation.
+- Created new columns for crash year, month (numeric and name), and hour in 24-hour format.
+- Handled inconsistencies in vehicle types by standardizing their names.
+- Created a new column to categorize crashes based on seasons using a custom function.
+
+![process5](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/3e0fd09b-3c97-4596-971b-527b069f3951)
+
+---
+
+**Handling Inconsistencies in Vehicle Types:**
+- Standardized various vehicle type names (e.g., "SPORT UTILITY / STATION WAGON", "PICK-UP TRUCK", "TAXI") into consistent representations (e.g., "Station Wagon/Sport Utility Vehicle", "Pick-up Truck," "Taxi") to ensure consistency across the dataset.
+- Ensured consistent labeling of vehicle types to minimize discrepancies, facilitating more accurate and reliable analysis of collision data.
+
+![Process6](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/7f7e6d14-bdd8-4fa1-920b-12201bf6bb06)
+
+---
+
+**Creating a Crash Season Column:**
+Creating a crash season column to categorize the data based on the month of the crash. The function get_season() is defined to assign seasons ('Spring', 'Summer', 'Autumn', 'Winter') based on the month of the crash.
+
+![process7](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/291d9580-99a3-42a3-b1df-050c5ea3b916)
+
+---
+**Duplicates Removal:**
+When called on a DataFrame, drop_duplicates() identifies rows that are duplicates based on the values in all columns or a specified subset of columns. It keeps the first occurrence of each unique row and drops subsequent duplicate rows.
+
+![process8](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/4a06b549-ca29-413f-9817-15056cd926a7)
+
+---
+
 ## Tools and Technologies:
 - [Python](https://www.python.org/) for data manipulation and analysis
 - [Pandas](https://pandas.pydata.org/) for data handling
