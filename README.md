@@ -38,7 +38,7 @@ Welcome to my data science and machine learning portfolio, showcasing a collecti
    - Internship at The Department of Agriculture, Food & the Marine from March 2023 to August 2023
 
    ## Technologies
-   - Java, C++, Angular, Python, Java Swing, HTML, CSS, PHP, JavaScript, Arduino, EASY68K, and SQL.
+   - [Java](https://dev.java/), [C++](https://cplusplus.com/), [Angular](https://angular.io/), [Python](https://www.python.org/), [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS), [PHP](https://www.php.net/), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [Java Swing](https://en.wikipedia.org/wiki/Swing_(Java)), [Arduino](https://www.arduino.cc/), and [SQL](https://en.wikipedia.org/wiki/SQL).
 
      
 # Introduction
