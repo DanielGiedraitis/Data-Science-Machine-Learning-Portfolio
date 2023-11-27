@@ -16,6 +16,7 @@ Welcome to my data science and machine learning portfolio, showcasing a collecti
 4. [Portfolio Contents](#Portfolio-Contents)
    - [Project 1: Exploratory Data Analysis for California Housing](#Project-1-Exploratory-Data-Analysis-for-California-Housing)
    - [Project 2: New York Motor Vehicle Collisions](#Project-2-New-York-Motor-Vehicle-Collisions)
+   - [Project 3: Random-Forests](#Project-3-Random-Forests)
 5. [Technologies Used In Portfolio](#Technologies-Used-In-Portfolio)
 6. [Future Potential Projects](#Future-Potential-Projects)
    - [Project 1: English Premier League Match Predictions & Player Statistics](#Project-1-English-Premier-League-Match-Predictions-&-Player-Statistics)
@@ -213,7 +214,7 @@ Regarding regulations, I followed standard data handling practices and complied 
 
 ---
 
-# [Project 2: New York Motor Vehicle Collisions]()
+# [Project 2: New York Motor Vehicle Collisions](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/tree/main/New%20York%20Motor%20Vehicle%20Collisions)
 ## Description:
 In this project, I undertook a comprehensive Exploratory Data Analysis (EDA) focused on motor vehicle collisions in New York. The goal was to delve into the extensive dataset related to vehicular incidents, aiming to extract meaningful insights into collision patterns across different areas of New York. The primary aim of this analysis is to offer valuable information for drivers, law enforcement, and urban planners. By identifying key patterns and trends within the data, this analysis aims to contribute to informed decision-making regarding road safety measures, traffic management, and overall improvement in the city's transportation infrastructure.
 
@@ -466,6 +467,11 @@ Regarding regulations, I followed standard data handling practices and complied 
 - Managing the balance between data accuracy and privacy was a challenge, especially when dealing with geographic data.
   
 <br>
+
+---
+
+# [Project 3: Random-Forests](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/tree/main/Random-Forests)
+[Jupyter Notebook](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/tree/main/Random-Forests)
 
 ---
 
