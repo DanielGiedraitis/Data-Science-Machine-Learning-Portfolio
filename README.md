@@ -280,27 +280,29 @@ The analysis involved various data visualisations to gain insights into motor ve
 
 1. **Yearly Collision Trends:** A bar plot depicting the number of collisions each year from 2012 to 2022, providing an overview of the overall trend.
 
-2. **Hourly Collision Distribution:** A bar plot illustrating the distribution of collisions throughout the day, highlighting peak hours and potential patterns.
+2. **Hourly Collision Distribution Using Bar Plot:** A bar plot illustrating the distribution of collisions throughout the day, highlighting peak hours and potential patterns.
 
-3. **Yearly and Weekly Collision Patterns:** A grouped bar plot displaying the number of collisions for each year, categorized by days of the week. This visualisation helps identify weekly patterns over the years.
+3. **Hourly Collision Distribution Using Line Plot:** A line plot illustrating the distribution of collisions throughout the day, highlighting peak hours and potential patterns.
 
-4. **Seasonal Analysis:** A bar plot showcasing the number of collisions for each season, providing insights into how collision rates vary across different seasons.
+4. **Yearly and Weekly Collision Patterns:** A grouped bar plot displaying the number of collisions for each year, categorized by days of the week. This visualisation helps identify weekly patterns over the years.
 
-5. **Yearly and Seasonal Comparison:** A grouped bar plot comparing collision counts across years, categorized by seasons. This visualisation allows for a deeper understanding of seasonal trends over the years.
+5. **Seasonal Analysis:** A bar plot showcasing the number of collisions for each season, providing insights into how collision rates vary across different seasons.
 
-6. **Top 5 Vehicle Types:** A bar plot highlighting the top five vehicle types involved in collisions over the years.
+6. **Yearly and Seasonal Comparison:** A grouped bar plot comparing collision counts across years, categorized by seasons. This visualisation allows for a deeper understanding of seasonal trends over the years.
 
-7. **Top 3 Contributing Factors:** A grouped bar plot comparing the top three contributing factors to collisions each year.
+7. **Top 5 Vehicle Types:** A bar plot highlighting the top five vehicle types involved in collisions over the years.
 
-8. **Yearly Casualty Comparison:** Two bar plots comparing the number of persons injured and killed, providing insights into the overall impact of collisions over the years.
+8. **Top 3 Contributing Factors:** A grouped bar plot comparing the top three contributing factors to collisions each year.
 
-9. **Hourly Casualty Distribution:** Multiple bar plots illustrating the distribution of casualties (injured and killed) across different hours of the day, categorized by pedestrian, cyclist, and motorist involvement.
+9. **Yearly Casualty Comparison:** Two bar plots comparing the number of persons injured and killed, providing insights into the overall impact of collisions over the years.
 
-10. **Pedestrians Injured and Pedestrians Killed:** Bar plots displaying the number of pedestrians injured and killed during collisions, providing insights into pedestrian safety trends.
+10. **Hourly Casualty Distribution:** Multiple bar plots illustrating the distribution of casualties (injured and killed) across different hours of the day, categorized by pedestrian, cyclist, and motorist involvement.
 
-11. **Cyclists Injured and Cyclists Killed:** Bar plots illustrating the number of cyclists injured and killed during collisions, aiding in understanding the risks associated with cycling.
+11. **Pedestrians Injured and Pedestrians Killed:** Bar plots displaying the number of pedestrians injured and killed during collisions, providing insights into pedestrian safety trends.
 
-12. **Motorists Injured and Motorists Killed:** Bar plots showcasing the number of motorists injured and killed during collisions, contributing to a comprehensive analysis of overall road safety.
+12. **Cyclists Injured and Cyclists Killed:** Bar plots illustrating the number of cyclists injured and killed during collisions, aiding in understanding the risks associated with cycling.
+
+13. **Motorists Injured and Motorists Killed:** Bar plots showcasing the number of motorists injured and killed during collisions, contributing to a comprehensive analysis of overall road safety.
 
 These visualisations collectively offer a comprehensive understanding of motor vehicle collisions in New York, highlighting temporal patterns, contributing factors, and the impact on casualties across different categories.
 
@@ -311,9 +313,15 @@ Number Of Road Collisions Over The Years: 2012 - 2022
 
 ---
 
-Number Of Collisions During Different Hours Of The Day:
+Number Of Collisions During Different Hours Of The Day Using A Bar Plot:
 
 ![Image2](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/86a57b26-ed54-495d-913d-a503d0a1590f)
+
+---
+
+Number Of Collisions During Different Hours Of The Day Using A Line Plot:
+
+![Image2.5](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/assets/91562130/5c4dba40-8eee-406f-9bbe-6c72bd3a98b6)
 
 ---
 
