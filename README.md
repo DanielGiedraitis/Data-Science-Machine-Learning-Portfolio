@@ -322,6 +322,7 @@ In the exploration of New York Motor Vehicle Collisions, I employed an array of 
 
 1. **Data Visualization:** Utilized a diverse range of visual representations, including:
    - **Bar Plots:** Showcasing yearly collision trends, hourly distribution, seasonal variations, and comparisons across different factors and casualties.
+   - **Line Plot:** Utilized a line plot to showcase the distribution of motor vehicle collisions across various hours. This visualization highlighted peak collision times and provided insights into hourly trends and variations in accident frequencies throughout the day.
    - **Grouped Bar Plots:** Offering insights into yearly and seasonal comparisons, top contributing factors, and vehicle type involvement.
    - **Temporal Analysis:** Utilizing line plots or bar plots to illustrate collision trends over days, months, and seasons.
 2. **Temporal Feature Extraction:** Utilized temporal features like crash hour, crash week, and crash season extracted from crash date to recognise patterns and trends over time intervals.
