@@ -446,6 +446,7 @@ Motorists Injured and Motorists Killed
 
 ## Inclusion and utilisation of online sources/links/blogs/data sources:
 **Dataset:** [NYC Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
+**Blog:** [Forbes](https://www.forbes.com/advisor/legal/nyc-car-accident-statistics/)
 
 ## Ethics and Regulations:
 I have taken ethical considerations into account in this project. The dataset does not contain sensitive personal information, and I have not performed any advanced machine learning techniques that could potentially lead to bias or unfairness. I ensured the privacy of data by not disclosing any personally identifiable information.
