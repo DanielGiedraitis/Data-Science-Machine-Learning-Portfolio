@@ -21,6 +21,7 @@ Welcome to my data science and machine learning portfolio, showcasing a collecti
    - [Project 5: Support Vector Machines](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/tree/main/Support%20Vector%20Machines)
    - [Project 6: K Nearest Neighbour](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/tree/main/K%20Nearest%20Neighbour)
    - [Project 7: K Means Clustering](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/tree/main/K%20Means%20Clustering)
+   - [Project 8: Neural Networks](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/tree/main/Neural%20Networks)
 5. [Technologies Used In Portfolio](#Technologies-Used-In-Portfolio)
 6. [Future Potential Projects](#Future-Potential-Projects)
    - [Project 1: English Premier League Match Predictions & Player Statistics](#Project-1-English-Premier-League-Match-Predictions-&-Player-Statistics)
