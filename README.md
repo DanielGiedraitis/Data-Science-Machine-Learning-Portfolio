@@ -24,6 +24,7 @@ Welcome to my data science and machine learning portfolio, showcasing a collecti
    - [Project 8: Neural Networks](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/tree/main/Neural%20Networks)
       - [1. FeedForward](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/tree/main/Neural%20Networks/FeedForward)
       - [2. Convolutional Neural Network (CNN)](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/tree/main/Neural%20Networks/Convolutional%20Neural%20Network%20(CNN))
+      - [3. Recurrent Neural Network (RNN)](https://github.com/DanielGiedraitis/Data-Science-Machine-Learning-Portfolio/tree/main/Neural%20Networks/Recurrent%20Neural%20Network%20(RNN))
 5. [Technologies Used In Portfolio](#Technologies-Used-In-Portfolio)
 6. [Future Potential Projects](#Future-Potential-Projects)
    - [Project 1: English Premier League Match Predictions & Player Statistics](#Project-1-English-Premier-League-Match-Predictions-&-Player-Statistics)
