@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Handwritten Digit Recognition</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            text-align: center;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        form {
+            margin-bottom: 20px;
+        }
+
+        input[type="file"] {
+            margin-bottom: 10px;
+        }
+
+        img {
+            width: 100%; /* Set the width to 100% of its container */
+            max-width: 600px; /* Set the maximum width to 600px */
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Handwritten Digit Recognition</h1>
+        <form action="/predict" method="post" enctype="multipart/form-data">
+            <input type="file" name="file" accept=".png, .jpg, .jpeg">
+            <button type="submit">Upload</button>
+        </form>
+        {% if prediction %}
+            <img src="{{ url_for('uploaded_file', filename=uploaded_image) }}" alt="Uploaded Image">
+            <p>{{ prediction }}</p>
+        {% endif %}
+    </div>
+</body>
+</html>
+
+
+
+
